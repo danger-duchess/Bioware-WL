@@ -1,1 +1,1 @@
-# Bioware-WL is a website created for my Website Localization class that is supposed to be a mockup. Using a bootstrap template and some css editing, I was able to receate the website to the best of my ability.
+# Bioware-WL is a website created for my Website Localization class that is supposed to be a mockup. Using a Bootstrap template and some css editing, I was able to recreate the website to the best of my ability.
